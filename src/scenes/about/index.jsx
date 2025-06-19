@@ -16,7 +16,7 @@ const TextFl = () => {
         sx={{ width: "80%", mx: "auto" }}
       >
         Investigador en movilidad urbana de la Universidad Nacional de Colombia.
-        Estudiante de Maestría en Ingeniería - Infraestructura y Sistemas de
+        Magíster en Ingeniería - Infraestructura y Sistemas de
         Transporte. Ingeniero Civil Especialista en Vías y Transporte.
       </Typography>
       <Typography

@@ -31,7 +31,7 @@ const InfoContainer = ({ img }) => {
               Investigador en Movilidad Urbana
             </Typography>
             <Typography variant="h4" marginTop="20px">
-              Maestrando en Ingeniería - Infraestructura y Sistemas de
+              Magíster en Ingeniería - Infraestructura y Sistemas de
               Transporte
             </Typography>
             <Typography variant="h4" marginTop="20px">
